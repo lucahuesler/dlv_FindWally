@@ -2,8 +2,7 @@
 
 MScIDS 
 
-**Module**
-DLV03 Deep Learning in Vision
+**Module:** DLV03 Deep Learning in Vision
 
 
 **Authors**
